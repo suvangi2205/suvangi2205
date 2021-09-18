@@ -1,10 +1,10 @@
--     Hi there, I’m Suvangi 👋
+- 🤗Hi there, I’m Suvangi 👋
 - 👀 I’m interested in web development, competitive programming and looks forward to build innovative projects
 - 🥳 I’m currently learning React
 - 🤖I’m looking to collaborate on creative and brain-knacking projects 
 - 📫 How to reach me:⬇️
      suvangi5pathy@gmail.com
-     If it works, don't touch it.😬
+  -  If it works, don't touch it.😬
 
     
 
